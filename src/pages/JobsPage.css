@@ -1,0 +1,30 @@
+/* src/pages/JobsPage.css */
+
+.jobs-page {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.jobs-page h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.jobs-page ul {
+    list-style: none;
+    padding: 0;
+}
+
+.jobs-page li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.jobs-page li h3 {
+    margin: 0;
+}
+
+.jobs-page li p {
+    margin: 0;
+    color: #666;
+}

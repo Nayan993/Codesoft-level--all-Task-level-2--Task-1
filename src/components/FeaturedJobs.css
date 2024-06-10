@@ -1,0 +1,30 @@
+.featured-jobs {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.featured-jobs h2 {
+    margin-top: 0;
+}
+
+.featured-jobs ul {
+    list-style: none;
+    padding: 0;
+}
+
+.featured-jobs li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+.featured-jobs li h3 {
+    margin: 0;
+}
+
+.featured-jobs li p {
+    margin: 0;
+    color: #666;
+}
